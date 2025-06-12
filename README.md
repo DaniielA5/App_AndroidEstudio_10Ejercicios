@@ -41,7 +41,7 @@ La interfaz sigue una paleta profesional inspirada en Material Design:
 
 ## 📱 Capturas de pantalla 
 
-
+![Login](login.png)
 
 ---
 
